@@ -55,9 +55,9 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'test',
-			'username'  => 'root',
-			'password'  => '',
+			'database'  => 'devjoom_cqhlaraveltest',
+			'username'  => 'devjoom_cqhuan',
+			'password'  => 'macarong1986',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
